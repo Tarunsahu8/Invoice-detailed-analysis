@@ -3,5 +3,5 @@
 <h3>Analyzing invoice details using Power BI</h3>
 <br>
 
-  <img src="Assets/img.png" width=250 />
+  <img src="Assets/img.png" width=700 />
   
